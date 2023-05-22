@@ -10,6 +10,7 @@ namespace WorkingWithDataTypes
     {
         static void Main(string[] args)
         {
+            //int
             int t = 10;
             Console.WriteLine(t);
             Console.WriteLine();
