@@ -27,7 +27,7 @@ namespace Parameters
             Console.WriteLine("totalSum: " + totalSum); //Output : 12
             Console.WriteLine("totalProduct: " + totalProduct); //Output : 32
 
-            //Params Array Perameters
+            //Params Array Parameters
             int[] EvenNumbers = new int[3];// Array
             EvenNumbers[0] = 10;
             EvenNumbers[1] = 20;
